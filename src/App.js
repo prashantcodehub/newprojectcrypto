@@ -5,6 +5,7 @@ function App() {
   return (
     <div className="App">
       hello world
+      <p>text for testing the git repo "push" </p>
     </div>
   );
 }
